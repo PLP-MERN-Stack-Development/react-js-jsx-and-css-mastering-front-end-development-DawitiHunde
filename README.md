@@ -2,6 +2,8 @@
 
 A comprehensive React application demonstrating component architecture, state management, hooks usage, and API integration. Built with Vite, React, React Router, and Tailwind CSS.
 
+Netlify URL https://reactapp230.netlify.app/
+
 ## 🚀 Features
 
 ### Component Architecture
